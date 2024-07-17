@@ -34,34 +34,11 @@ MedAppoint is a simple web-based application designed for e-channeling, specific
 4. Access PHPMyAdmin via http://localhost/phpmyadmin
 5. Create a new database named `edoc`.
 6. Import the SQL file located in the source code root folder, named `DATABASE edoc.sql`.
-7. Visit http://localhost/edoc-echanneling-main/ to access the Doctor's Appointment System.
+7. Visit http://localhost/MedAppoint to access the Doctor's Appointment System.
 
 ## Built With
 - Apache Version: 2.4.39
 - PHP Version: 7.3.5
 - Server Software: Apache/2.4.39 (Win64) PHP/7.3.5
 - MySQL Version: 5.7.26
-
-## Demo
-- [Demo Video](https://youtu.be/mAWHYAHmit4)
-
-## Contributing
-Contributions are welcome. Please read the contributing guidelines before starting.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-- Admin: admin@edoc.com
-- Doctor: doctor@edoc.com
-- Patient: patient@edoc.com
-
-## Acknowledgments
-Special thanks to the contributors:
-- [@HashenUdara](https://github.com/HashenUdara)
-- [@Pasquale007](https://github.com/Pasquale007)
-- [@R-Krishita](https://github.com/R-Krishita)
-```
-
-
-This README template includes sections on the description, features, installation steps, built with, demo link, contributing, license, contact, and acknowledgments. Adjustments may be necessary based on your specific setup or project requirements.
+ils.
