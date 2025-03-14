@@ -4,6 +4,7 @@
 MedAppoint is a simple web-based application designed for e-channeling, specifically aimed at facilitating online appointment scheduling for clients or patients of medical establishments like clinics and hospitals. This PHP-based application supports three key roles: administrator, doctor, and patient, each with their specific functionalities to manage their appointments efficiently.
 
 ![Screenshot](Screenshots/Screenshot%20(1).png)
+![Screenshot 2](Screenshots/Screenshot%20(2).png)
 
 
 ## Features
@@ -12,17 +13,26 @@ MedAppoint is a simple web-based application designed for e-channeling, specific
 - Add, edit, and delete doctors
 - Schedule and remove doctors sessions
 - View patient details and bookings
+![Screenshot 3](Screenshots/Screenshot%20(3).png)
+![Screenshot 4](Screenshots/Screenshot%20(4).png)
+![Screenshot 5](Screenshots/Screenshot%20(5).png)
+
 
 ### Doctors
 - View appointments and scheduled sessions
 - Access and manage patient details
 - Delete and edit account settings
+![Screenshot 9](Screenshots/Screenshot%20(9).png)
+![Screenshot 10](Screenshots/Screenshot%20(10).png)
 
 ### Patients (Clients)
 - Make appointments online
 - Create and manage accounts
 - View and manage old bookings
 - Delete and edit account settings
+![Screenshot 6](Screenshots/Screenshot%20(6).png)
+![Screenshot 7](Screenshots/Screenshot%20(7).png)
+![Screenshot 8](Screenshots/Screenshot%20(8).png)
 
 ## Getting Started
 
